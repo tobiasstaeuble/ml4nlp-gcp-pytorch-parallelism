@@ -1,0 +1,17 @@
+Further Topic(s): Infrastructure management
+
+- Multi-Core vs Distributed ("shared memory" vs "distributed memory")
+- Spinning up Google Cloud Machines efficiently (Terraform?)
+- Deploy Scripts automatically
+- Using Pre-Configured images including modules?
+- Cost calculation VM vs Dedicated High Level API?
+
+( - AutoML)
+
+Notes
+
+DistributedDataParallel vs DataParallel
+Using one process to connect to multiple machines?
+
+
+
